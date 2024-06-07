@@ -44,7 +44,7 @@ class StripeController extends Controller
             
             // Stripe API
             
-            \Stripe\Stripe::setApiKey('sk_test_4SJEFX9tedzljbhlDnYhuqd7');
+            \Stripe\Stripe::setApiKey('sk_test_abc');
 
 
             $token = $_POST['stripeToken'];
