@@ -51,7 +51,7 @@ class StripeController extends Controller
 
             $charge = \Stripe\Charge::create([
               'amount' => $finalTotal*100,
-              'currency' => 'usd',
+              'currency' => 'euro',
               'description' => 'Saiful Online Store',
               'source' => $token,
               'metadata' => ['order_id' => uniqid()],
