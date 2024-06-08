@@ -82,7 +82,6 @@ class StripeController extends Controller
                 "new_sub_total" => $newSubTotal1,
                 "tax" => $newTax,
                 "shipping_charge" => $shippingPrice,
-                //'order_number'=> 'MAK2021'. mt_rand(100,999),
                 "order_number" => $charge->metadata->order_id,
                 "invoice_number" => "SA" . mt_rand(10000000, 99999999),
                 "order_date" => Carbon::now()->format("d F Y"),
