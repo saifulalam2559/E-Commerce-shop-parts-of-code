@@ -51,6 +51,6 @@ This project showcases important segments of code necessary for creating an E-Co
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
 
 ## License
-This project is open-sourced software licensed under the [MIT license](LICENSE).
+This project is open-sourced software licensed under the [MIT license](https://github.com/saifulalam2559/E-Commerce-shop-parts-of-code/blob/main/LICENSE.md).
 
 For more details, visit the [GitHub repository](https://github.com/saifulalam2559/E-Commerce-shop-parts-of-code).
