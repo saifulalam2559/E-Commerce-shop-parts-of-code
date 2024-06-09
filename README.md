@@ -36,16 +36,16 @@ This project showcases important segments of code necessary for creating an E-Co
 4. Configure your environment settings by copying `.env.example` to `.env` and updating the database credentials.
 
 ## Usage
-- Run the application:
+- Run your Laravel application:
   ```bash
   php artisan serve
   ```
 - Access the application at `http://localhost:8000`.
 
 ## Folder Structure
-- `app/Http/Controllers/`: Contains the controller files handling the business logic.
-- `app/Models/`: Includes the model files interacting with the database.
-- `resources/views/`: Holds the view files rendering the UI.
+- `Http/Controllers/`: Contains the controller files handling the business logic.
+- `Models/`: Includes the model files interacting with the database.
+- `Utilities/`: Holds the Helpers Class.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
