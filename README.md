@@ -65,4 +65,3 @@
     <p>For more details, visit the <a href="https://github.com/saifulalam2559/E-Commerce-shop-parts-of-code">GitHub repository</a>.</p>
 </body>
 </html>
-
