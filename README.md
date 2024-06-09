@@ -1,5 +1,5 @@
 
-# E-Commerce Shop Parts of Code
+# Essential parts of the code for developing an E-Commerce shop
 
 This repository contains essential parts of the code for developing an E-Commerce shop using the Laravel framework. It includes key components of the controller and model.
 
