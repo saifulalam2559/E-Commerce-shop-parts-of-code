@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E-Commerce Shop Parts of Code</title>
 </head>
+
 <body>
     <h1>E-Commerce Shop Parts of Code</h1>
     <p>This repository contains essential parts of the code for developing an E-Commerce shop using the Laravel framework. It includes key components of the controller and model.</p>
@@ -64,4 +66,5 @@
 
     <p>For more details, visit the <a href="https://github.com/saifulalam2559/E-Commerce-shop-parts-of-code">GitHub repository</a>.</p>
 </body>
+
 </html>
